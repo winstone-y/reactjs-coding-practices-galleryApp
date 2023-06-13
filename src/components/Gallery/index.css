@@ -1,0 +1,12 @@
+/* Write your code here. */
+.bg {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 50px;
+  height: 100vh;
+}
+.thumb-container {
+  display: flex;
+  padding: 0;
+}
